@@ -1,0 +1,16 @@
+{
+  "name": "week15-desktop-programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electronmon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hicoders",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^27.1.3",
+    "electronmon": "^2.0.2"
+  }
+}
